@@ -1,2 +1,3 @@
 seharusnya masih ada baris ini di commit sebelumnya
 Feature 3
+Feature B
